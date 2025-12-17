@@ -78,7 +78,7 @@ The survey describes different driving scenarios (destination, time, weather, pa
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/coupon-acceptance-analysis.git
+   git clone git@github.com:avidavis/coupon-acceptance-analysis.git
    cd coupon-acceptance-analysis
    ```
 
